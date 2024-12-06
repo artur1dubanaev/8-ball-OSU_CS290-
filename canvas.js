@@ -15,7 +15,7 @@ let Canvas = new Canvas2D();
 
 //Testing
 let image = new Image();
-image.src = "./assets/sprites/spr_background.png";
+image.src = "./assets/sprites/spr_background5.png";
 
 Canvas.drawImage(image, {x:0,y:0});
 
